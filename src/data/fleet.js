@@ -517,7 +517,7 @@ export const fleet = [
   price: 8000,
   type: "Van",
   image: Urbania12,
-
+  
   images: [UrbaniaLux101,UrbaniaLux102,UrbaniaLux104],
   pricing: [
     { slab: "8hrs 80Kms", price: 8000 },
