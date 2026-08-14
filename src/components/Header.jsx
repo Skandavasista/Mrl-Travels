@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { Link, NavLink } from "react-router-dom";
 import { Phone, Menu, X } from "lucide-react";
-import logo from "../assets/MRLTravelsLogo.jpeg";
+import logo from "../assets/MRLTravelsLogo.jpg";
 
 const NAV = [
   { label: "Home", to: "/" },
@@ -11,7 +11,7 @@ const NAV = [
   { label: "Contact", to: "/contact" },
 ];
 
-export default function Header() {
+export default function Header() {n
   const [open, setOpen] = useState(false);
 
   return (
