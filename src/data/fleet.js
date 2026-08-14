@@ -6,7 +6,7 @@ import Innova3 from "/src/assets/Innova3.png";
 import Innova4 from "/src/assets/Innova4.png";
 import InnovaCrysta from "/src/assets/InnovaCrysta.png";
 import EtiosBanner from "/src/assets/EtiosBanner.png";
-import ErtigaBanner from "/src/assets/ErtigaBanner.png";
+import ErtigaBanner from "/src/assets/ErtigaBanner.jpg";
 import MiniBusBanner from "/src/assets/MiniBusBanner.png";
 import TT12Banner from "/src/assets/TT12Banner.png";
 import TTLuxury9 from "/src/assets/TTLuxury9Banner.png";
