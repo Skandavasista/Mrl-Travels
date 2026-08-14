@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { Link, NavLink } from "react-router-dom";
 import { Phone, Menu, X } from "lucide-react";
-import logo from "../assets/MRLTravelsLogo.png";
+import logo from "../assets/MRLTravelsLogo.jpeg";
 
 const NAV = [
   { label: "Home", to: "/" },
