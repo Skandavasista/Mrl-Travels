@@ -1,55 +1,55 @@
 // src/data/fleet.js
 
 import Innova1 from "../assets/Innova1.jpg";
-import Innova2 from "../assets/Innova2.png";
-import Innova3 from "../assets/Innova3.png";
-import Innova4 from "../assets/Innova4.png";
+import Innova2 from "../assets/Innova2.jpg";
+import Innova3 from "../assets/Innova3.jpg";
+import Innova4 from "../assets/Innova4.jpg";
 import InnovaCrysta from "../assets/InnovaCrysta.jpg";
 
-import EtiosBanner from "../assets/EtiosBanner.png";
-import ErtigaBanner from "../assets/ErtigaBanner.png";
-import MiniBusBanner from "../assets/MiniBusBanner.png";
-import TT12Banner from "../assets/TT12Banner.png";
-import TTLuxury9 from "../assets/TTLuxury9Banner.png";
-import TTLuxury12 from "../assets/TTLuxury12Banner.png";
-import Urbania16Banner from "../assets/Urbania16Banner.png";
-import Urbania12 from "../assets/Urbania12.png";
+import EtiosBanner from "../assets/EtiosBanner.jpg";
+import ErtigaBanner from "../assets/ErtigaBanner.jpg";
+import MiniBusBanner from "../assets/MiniBusBanner.jpg";
+import TT12Banner from "../assets/TT12Banner.jpg";
+import TTLuxury9 from "../assets/TTLuxury9Banner.jpg";
+import TTLuxury12 from "../assets/TTLuxury12Banner.jpg";
+import Urbania16Banner from "../assets/Urbania16Banner.jpg";
+import Urbania12 from "../assets/Urbania12.jpg";
 
-import Etios1 from "../assets/Etios1.png";
-import Etios2 from "../assets/Etios2.png";
-import Etios3 from "../assets/Etios3.png";
-import Etios4 from "../assets/Etios4.png";
+import Etios1 from "../assets/Etios1.jpg";
+import Etios2 from "../assets/Etios2.jpg";
+import Etios3 from "../assets/Etios3.jpg";
+import Etios4 from "../assets/Etios4.jpg";
 
-import Ertiga1 from "../assets/Ertiga1.png";
-import Ertiga2 from "../assets/Ertiga2.png";
-import Ertiga3 from "../assets/Ertiga3.png";
-import Ertiga4 from "../assets/Ertiga4.png";
+import Ertiga1 from "../assets/Ertiga1.jpg";
+import Ertiga2 from "../assets/Ertiga2.jpg";
+import Ertiga3 from "../assets/Ertiga3.jpg";
+import Ertiga4 from "../assets/Ertiga4.jpg";
 
-import TTLux92 from "../assets/TTLux92.png";
-import TTLux93 from "../assets/TTLux93.png";
-import TTLux94 from "../assets/TTLux94.png";
+import TTLux92 from "../assets/TTLux92.jpg";
+import TTLux93 from "../assets/TTLux93.jpg";
+import TTLux94 from "../assets/TTLux94.jpg";
 
-import Van211 from "../assets/Van211.png";
-import Van212 from "../assets/Van212.png";
-import Van213 from "../assets/Van213.png";
-import Van214 from "../assets/Van214.png";
+import Van211 from "../assets/Van211.jpg";
+import Van212 from "../assets/Van212.jpg";
+import Van213 from "../assets/Van213.jpg";
+import Van214 from "../assets/Van214.jpg";
 
-import TTDel91 from "../assets/TTDel91.png";
-import TTDel92 from "../assets/TTDel92.png";
+import TTDel91 from "../assets/TTDel91.jpg";
+import TTDel92 from "../assets/TTDel92.jpg";
 
-import TTLux121 from "../assets/TTLux121.png";
-import TTLux122 from "../assets/TTLux122.png";
-import TTLux123 from "../assets/TTLux123.png";
-import TTLux124 from "../assets/TTLux124.png";
+import TTLux121 from "../assets/TTLux121.jpg";
+import TTLux122 from "../assets/TTLux122.jpg";
+import TTLux123 from "../assets/TTLux123.jpg";
+import TTLux124 from "../assets/TTLux124.jpg";
 
-import UrbaniaLux161 from "../assets/UrbaniaLux161.png";
-import UrbaniaLux162 from "../assets/UrbaniaLux162.png";
-import UrbaniaLux163 from "../assets/UrbaniaLux163.png";
-import UrbaniaLux164 from "../assets/UrbaniaLux164.png";
+import UrbaniaLux161 from "../assets/UrbaniaLux161.jpg";
+import UrbaniaLux162 from "../assets/UrbaniaLux162.jpg";
+import UrbaniaLux163 from "../assets/UrbaniaLux163.jpg";
+import UrbaniaLux164 from "../assets/UrbaniaLux164.jpg";
 
-import UrbaniaLux101 from "../assets/UrbaniaLux101.png";
-import UrbaniaLux102 from "../assets/UrbaniaLux102.png";
-import UrbaniaLux104 from "../assets/UrbaniaLux104.png";
+import UrbaniaLux101 from "../assets/UrbaniaLux101.jpg";
+import UrbaniaLux102 from "../assets/UrbaniaLux102.jpg";
+import UrbaniaLux104 from "../assets/UrbaniaLux104.jpg";
 
 
 

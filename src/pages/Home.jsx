@@ -20,7 +20,7 @@ import BookingForm from "../components/BookingForm.jsx";
 import { fleet } from "../data/fleet.js";
 import { routes } from "../data/routes.js";
 import naturepic from "../assets/naturepic.jpg";
-import nandhihill from "../assets/nandhihill.png";
+import nandhihill from "../assets/nandhihill.jpg";
 
 
 

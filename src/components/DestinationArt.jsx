@@ -5,16 +5,16 @@
    — no other code changes needed. */
 
 import { useState } from "react";
-import nandhihill from "../assets/nandhihill.png";
-import coorg from "../assets/coorg.png";
-import bngooty from "../assets/bngmysandooty.png";
-import bnmyswayanad from "../assets/bngmyswaynad.png";
-import kodaikanal from "../assets/mysootykod.png";
-import tirupathi from "../assets/tirupathi.png";
-import shirdi from "../assets/shirdi.png";
-import mantralaya from "../assets/mantralayabng.png";
-import alappey from "../assets/alappey.png";
-import rameshwaramkanya from "../assets/rameshwaramkanya.png";
+import nandhihill from "../assets/nandhihill.jpg";
+import coorg from "../assets/coorg.jpg";
+import bngooty from "../assets/bngmysandooty.jpg";
+import bnmyswayanad from "../assets/bngmyswaynad.jpg";
+import kodaikanal from "../assets/mysootykod.jpg";
+import tirupathi from "../assets/tirupathi.jpg";
+import shirdi from "../assets/shirdi.jpg";
+import mantralaya from "../assets/mantralayabng.jpg";
+import alappey from "../assets/alappey.jpg";
+import rameshwaramkanya from "../assets/rameshwaramkanya.jpg";
 
 const PHOTOS = {
   "Nandi Hills": nandhihill,

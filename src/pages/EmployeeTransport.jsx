@@ -1,6 +1,6 @@
 import { Users, ShieldCheck, Clock, Radar, Receipt, Percent, Truck, UserCog, TrendingUp, HeartHandshake } from "lucide-react";
 import BookingForm from "../components/BookingForm.jsx";
-import heroImg from "../assets/EmployeeTransportation1.png";
+import heroImg from "../assets/EmployeeTransportation1.jpg";
 
 const points = [
   { icon: Clock, title: "On-time pickups", desc: "Fixed schedules across shifts, tracked routes, no last-minute surprises." },
