@@ -11,7 +11,7 @@ const NAV = [
   { label: "Contact", to: "/contact" },
 ];
 
-export default function Header() {n
+export default function Header() {
   const [open, setOpen] = useState(false);
 
   return (
